@@ -1,0 +1,6 @@
+@CrebitoApi_HostAddress = http://172.24.224.1:19999
+
+GET {{CrebitoApi_HostAddress}}/contas/1/extrato
+Accept: application/json
+
+###
