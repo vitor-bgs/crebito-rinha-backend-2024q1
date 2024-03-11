@@ -14,4 +14,5 @@
 
 ### Info
 Repositório da Rinha: [zanfranceschi/rinha-de-backend-2024-q1](https://github.com/zanfranceschi/rinha-de-backend-2024-q1)
+
 LinkedIn: [Vitor Breno Gomes da Silva](https://www.linkedin.com/in/vitorbgs/)
