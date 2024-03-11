@@ -4,6 +4,7 @@
 - .NET 8
   - Minimal API
   - Clean Architecture
+  - FluentValidation
   - Dapper
 - PostgreSQL
 - NGINX
